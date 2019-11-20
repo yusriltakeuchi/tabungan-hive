@@ -12,7 +12,7 @@ class UpdateTabunganScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Tambah Tabungan"),
+        title: Text("Update Tabungan"),
         backgroundColor: Colors.blue,
       ),
       body: UpdateTabunganBody(
